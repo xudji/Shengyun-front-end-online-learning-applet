@@ -1,0 +1,7 @@
+{
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "my-tabbar": "../../common/tabbar/my-tabbar"
+  }
+}

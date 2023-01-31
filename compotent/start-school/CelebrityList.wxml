@@ -1,0 +1,1 @@
+<view class="clebrityList"><celebrity wx:if="{{a}}" u-i="3a361504-0" bind:__l="__l" u-p="{{a}}"></celebrity></view>

@@ -1,0 +1,46 @@
+
+    /* 取消滚动条 */
+scroll-view.data-v-66252b65 ::-webkit-scrollbar {
+        display: none;
+        width: 0 !important;
+        height: 0 !important;
+        -webkit-appearance: none;
+        background: transparent;
+        color: transparent;
+}
+.question.data-v-66252b65 {
+        width: 100vw;
+        height: 100vh;
+        /* background: url('https://fawnuat.xuexiluxian.cn/api/profile/wechat/bgimg/question-bg.png') */
+        background-color: #f3f4f5;
+}
+.question-content.data-v-66252b65 {
+        padding: 0 35rpx;
+}
+
+    /* 搜索框 */
+.question-header.data-v-66252b65 {
+        width: 680rpx;
+        height: 80rpx;
+        line-height: 80rpx;
+        margin-bottom: 30rpx;
+        background-color: #ffffff;
+        border-radius: 45rpx;
+        position: relative;
+}
+.question input.data-v-66252b65 {
+        width: 680rpx;
+        height: 80rpx;
+        line-height: 80rpx;
+        text-align: center;
+        margin-top: 20rpx;
+        font-size: 30rpx;
+        font-weight: 400;
+}
+.question-search.data-v-66252b65 {
+        width: 36rpx;
+        height: 38rpx;
+        position: absolute;
+        top: 20rpx;
+        right: 30rpx;
+}

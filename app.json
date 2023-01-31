@@ -1,0 +1,46 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/initerview-question/initerview-question",
+    "pages/initerview-process/initerview-process",
+    "pages/my-contract/my-contract",
+    "pages/my-card/my-card",
+    "pages/show-contract/show-contract",
+    "pages/start-school/start-school",
+    "pages/enter-school/enter-school",
+    "pages/consulting-help/consulting-help",
+    "pages/subject/subject"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "custom": true,
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/initerview-question/initerview-question",
+        "text": "刷面试题"
+      },
+      {
+        "pagePath": "pages/initerview-process/initerview-process",
+        "text": "面试流程"
+      },
+      {
+        "pagePath": "pages/my-contract/my-contract",
+        "text": "我的协议"
+      },
+      {
+        "pagePath": "pages/my-card/my-card",
+        "text": "我的名片"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

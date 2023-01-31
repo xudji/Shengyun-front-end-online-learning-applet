@@ -1,0 +1,1 @@
+<view class="home-main data-v-0948ae03"><block wx:for="{{a}}" wx:for-item="item" wx:key="c"><home-item wx:if="{{item.b}}" class="data-v-0948ae03" u-i="{{item.a}}" bind:__l="__l" u-p="{{item.b}}"></home-item></block></view>

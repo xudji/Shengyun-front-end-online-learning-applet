@@ -1,0 +1,75 @@
+
+scroll-view ::-webkit-scrollbar {
+        display: none;
+        width: 0 !important;
+        height: 0 !important;
+        -webkit-appearance: none;
+        background: transparent;
+        color: transparent;
+}
+.home-container {
+        width: 100vm;
+        height: 100%;
+        margin-right: -7rpx;
+        /* background: url(); */
+        background-size: cover;
+        margin-bottom: 120rpx;
+        box-sizing: border-box;
+}
+.home-header {
+        padding: 131rpx 37rpx 0 37rpx;
+}
+
+    /* 设置标题 */
+.home-title {
+        width: 420px;
+
+        font-size: 60rpx;
+        font-family: Microsoft YaHei;
+        font-weight: 400;
+        color: #000cff;
+}
+
+    /* 入学信息 */
+.home-school {
+        width: 236rpx;
+        height: 40rpx;
+        line-height: 56rpx;
+        font-size: 38rpx;
+        font-family: Microsoft YaHei;
+        font-weight: 400;
+        color: #344356;
+        opacity: .8;
+        padding: 20rpx 0;
+}
+
+    /* 查看权益 */
+.home-show {
+        width: 290rpx;
+        height: 59rpx;
+        display: flex;
+        align-items: center;
+        background-color: #5468ff;
+        border-radius: 10rpx;
+        padding: 0 20rpx;
+        box-sizing: border-box;
+}
+.home-class {
+        height: 27rpx;
+        line-height: 27rpx;
+        font-size: 28rpx;
+        font-family: Microsoft YaHei;
+        font-weight: 400;
+        color: #ffffff;
+}
+.home-class::after {
+        content: '';
+        width: 1rpx;
+        height: 31rpx;
+        margin: 0 20rpx;
+        border-left: 4rpx solid #ffffff;
+}
+.home-img {
+        width: 28rpx;
+        height: 28rpx;
+}

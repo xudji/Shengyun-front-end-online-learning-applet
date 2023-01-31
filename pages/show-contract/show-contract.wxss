@@ -1,0 +1,102 @@
+
+scroll-view.data-v-9f965a7b ::-webkit-scrollbar {
+        display: none;
+        width: 0 !important;
+        height: 0 !important;
+        -webkit-appearance: none;
+        background: transparent;
+        color: transparent;
+}
+.show-contract.data-v-9f965a7b {
+        width: 750rpx;
+        height: 100vh;
+        box-sizing: border-box;
+        background-color: #8F86FA;
+}
+.contract-header.data-v-9f965a7b {
+        height: 100vh;
+        height: 300rpx;
+        text-align: center;
+        position: relative;
+        margin: 0 0 0 30rpx;
+}
+.contract-header .text.data-v-9f965a7b {
+        font-size: 60rpx;
+        height: 60rpx;
+        line-height: 60rpx;
+        font-weight: bold;
+        color: #ffffff;
+        letter-spacing: 20rpx;
+        padding: 160rpx 0;
+        text-shadow: 2px 2px 2px rgba(100, 100, 100, .8);
+}
+.contract.data-v-9f965a7b {
+        width: 702rpx;
+        padding: 0 24rpx;
+        padding-bottom: 60rpx;
+}
+.sign-bg-title.data-v-9f965a7b {
+        width: 240rpx;
+        height: 80rpx;
+        border-radius: 20rpx;
+        /* background: url(); */
+        background-color: #FFDE76;
+        background-size: 100%;
+        box-shadow: 0rpx 10rpx 10rpx -6rpx rgba(100, 100, 100, .4);
+        position: relative;
+        top: 40rpx;
+        z-index: 1;
+        margin: 0 auto;
+}
+.item-title.data-v-9f965a7b {
+        position: absolute;
+        left: 50%;
+        top: 10px;
+        transform: translateX(-50%);
+        font-size: 40rpx;
+        font-weight: normal;
+        color: #5d6fe5;
+        line-height: 40rpx;
+}
+.item-content.data-v-9f965a7b {
+        width: 702rpx;
+        height: 100%;
+        background: #ffffff;
+        border-radius: 20rpx;
+        background-size: 100% 100%;
+        position: relative;
+}
+.sign-bg-footer.data-v-9f965a7b {
+        width: 702rpx;
+        height: 100%;
+        /* background: url(); */
+        background-size: 100% 100%;
+        position: relative;
+}
+.item-text.data-v-9f965a7b {
+        padding: 60rpx 40rpx 20rpx;
+        font-size: 30rpx;
+        font-family: 400;
+        color: #7a8bff;
+}
+.know.data-v-9f965a7b {
+        width: 100vw;
+        height: 200rpx;
+        position: relative;
+}
+.contract-know.data-v-9f965a7b {
+        width: 520rpx;
+        height: 80rpx;
+        font-size: 30rpx;
+        font-family: Microsoft YaHei;
+        font-weight: normal;
+        color: #5d6fe5;
+        text-align: center;
+        line-height: 80rpx;
+        background-color: #ffffff;
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+        border-radius: 20rpx;
+}

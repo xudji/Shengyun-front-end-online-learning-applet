@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "刷题",
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": false,
+  "backgroundColor": "#f0f3f7",
+  "scrollIndicator": "none",
+  "usingComponents": {
+    "my-header": "../../common/my-header/my-header",
+    "subject-item": "../../compotent/subject/subject-item"
+  }
+}

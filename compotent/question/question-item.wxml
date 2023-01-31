@@ -1,0 +1,1 @@
+<view class="question-item data-v-ed6c5080"><image class="item-img data-v-ed6c5080" src="{{a}}" mode=""></image><view class="item-text data-v-ed6c5080"><view class="item-title data-v-ed6c5080">{{b}}</view><view class="item-tips data-v-ed6c5080">{{c}}</view></view><view class="item-start data-v-ed6c5080" bindtap="{{d}}"> 开始刷题 </view></view>

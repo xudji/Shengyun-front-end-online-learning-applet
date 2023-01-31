@@ -1,0 +1,19 @@
+
+.manga-list.data-v-2804a59f {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        box-sizing: border-box;
+}
+.item-bg.data-v-2804a59f {
+        width: 100rpx;
+        height: 100rpx;
+}
+.item-text.data-v-2804a59f {
+        width: 104rpx;
+        height: 25rpx;
+        font-size: 26rpx;
+        font-weight: 400;
+        color: #222;
+        padding-top: 10rpx;
+}

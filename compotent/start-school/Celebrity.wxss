@@ -1,0 +1,73 @@
+
+.celebrity.data-v-ba47eed6 {
+        display: flex;
+        flex-wrap: nowrap;
+        padding-top: 36rpx;
+}
+.celebrity-item.data-v-ba47eed6 {
+        width: 289rpx;
+        height: 300rpx;
+        background-color: #fff;
+        border-radius: 20rpx;
+        margin: 0 40rpx 20rpx 20rpx;
+        /* background: url(); */
+        background-size: cover;
+        box-shadow: rgba(100, 100, 211, 0.2) 0px 2px 8px 2px;
+}
+.item-header.data-v-ba47eed6 {
+        padding-top: 10rpx;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+}
+.start.data-v-ba47eed6 {
+        width: 30rpx;
+        height: 30rpx;
+}
+.trophy.data-v-ba47eed6 {
+        width: 80rpx;
+        height: 80rpx;
+}
+.item-content.data-v-ba47eed6 {
+        padding-top: 20rpx;
+        padding-left: 20rpx;
+}
+.item-list.data-v-ba47eed6 {
+        height: 25rpx;
+        font-size: 25rpx;
+        font-weight: 400;
+        color: #333333;
+        line-height: 27rpx;
+        padding-bottom: 20rpx;
+}
+.item-text.data-v-ba47eed6 {
+        padding-left: 10rpx;
+}
+.item-active-text.data-v-ba47eed6 {
+        color: #f00;
+        font-size: 30rpx;
+        font-weight: bold;
+}
+.item-foot.data-v-ba47eed6 {
+        width: 100%;
+        height: 50rpx;
+        background: #006cff;
+        display: flex;
+        justify-content: space-around;
+        border-radius: 0 0 20rpx 20rpx;
+}
+.foot-item.data-v-ba47eed6 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+}
+.foot-bg.data-v-ba47eed6 {
+        width: 22rpx;
+        height: 21rpx;
+}
+.foot-text.data-v-ba47eed6 {
+        font-size: 24rpx;
+        line-height: 27rpx;
+        font-weight: normal;
+        color: #ffffff;
+}

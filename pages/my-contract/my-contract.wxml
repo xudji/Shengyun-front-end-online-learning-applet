@@ -1,0 +1,1 @@
+<view class="my-contract"><text>我的协议</text><my-tabbar wx:if="{{a}}" u-i="77b205e1-0" bind:__l="__l" u-p="{{a}}"></my-tabbar></view>

@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "刷面试题",
+  "navigationStyle": "custom",
+  "backgroundColor": "#f0f3f7",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "my-header": "../../common/my-header/my-header",
+    "my-tabbar": "../../common/tabbar/my-tabbar",
+    "question-commidty": "../../compotent/question/question-commidty"
+  }
+}

@@ -1,0 +1,28 @@
+"use strict";
+const common_vendor = require("../../common/vendor.js");
+const _sfc_main = {
+  props: {
+    datalist: {
+      type: Array,
+      default: []
+    }
+  }
+};
+function _sfc_render(_ctx, _cache, $props, $setup, $data, $options) {
+  return {
+    a: common_vendor.f($props.datalist, (item, k0, i0) => {
+      return {
+        a: common_vendor.t(item.studentName),
+        b: common_vendor.t(item.wrokCity),
+        c: common_vendor.t(item.salary),
+        d: common_vendor.t(item.className),
+        e: common_vendor.t(item.education),
+        f: common_vendor.t(item.workWay),
+        g: common_vendor.t(item.studentAge),
+        h: item.id
+      };
+    })
+  };
+}
+const Component = /* @__PURE__ */ common_vendor._export_sfc(_sfc_main, [["render", _sfc_render], ["__scopeId", "data-v-ba47eed6"], ["__file", "C:/Users/jxd/Desktop/\u524D\u7AEF\u9879\u76EE\u7EC3\u4E60/mini/uni-test/studentProject/compotent/start-school/Celebrity.vue"]]);
+wx.createComponent(Component);

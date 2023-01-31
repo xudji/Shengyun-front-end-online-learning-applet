@@ -1,0 +1,1 @@
+<view class="my-card"><text>我的名片</text><my-tabbar wx:if="{{a}}" u-i="64fb62dd-0" bind:__l="__l" u-p="{{a}}"></my-tabbar></view>

@@ -1,0 +1,1 @@
+<view class="home-item"><view class="item-main" bindtap="{{b}}"><view class="item-content"><image class="left" src="/static/icons/左箭头.png" mode=""></image><view class="item-text">{{a}}</view><image src="/static/icons/右箭头.png" mode=""></image></view></view></view>
